@@ -1,0 +1,6 @@
+<Response>
+    <Dial callerId="GolfSuites Toll Free Line">
+        <Number>+17277931667</Number>
+    </Dial>
+</Response>
+<!-- This simply forwards the GolfSuites 888 number, registered with Plivo, to a personal number -->
