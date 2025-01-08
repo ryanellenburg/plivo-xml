@@ -1,6 +1,0 @@
-<Response>
-    <Dial callerId="ERC Communities Toll Free Line">
-        <Number>+17277931667</Number>
-    </Dial>
-</Response>
-<!-- This simply forwards the ERC Communities 888 number, registered with Plivo, to a personal number -->
